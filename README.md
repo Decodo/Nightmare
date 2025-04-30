@@ -17,13 +17,14 @@ We suggest researching [Nightmare.js](https://github.com/segmentio/nightmare#api
 
 `curl https://raw.githubusercontent.com/Decodo/Nightmare/master/nightmare.js > nightmare.js`
 
-<img src="https://i.imgur.com/joNFPlR.png" alt="curl Decodo nightmare code sample">
+<img width="871" alt="image" src="https://github.com/user-attachments/assets/252acf7b-6f23-413f-a5d7-b694547fc36c" />
 
 3. You should see a new file named nightmare.js in your project folder. Edit it using an editor of your choice.
 
 4. To set up your username and password, change the corresponding fields within punctuation marks (''). You can also choose an endpoint that you would like to use by editing the `proxy-server:` parameter.
 
-<img src="https://i.imgur.com/jiUghu8.png" alt="Decodo nightmare http proxy configuration with username password authentication">
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/4209cede-ced1-4711-923e-cffeaf61b177" />
+
 
 ### Usage
 
